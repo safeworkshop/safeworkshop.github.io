@@ -18,23 +18,24 @@ We invite original research contributions as well as position papers addressing,
 
 # Topics
 
--Explainable machine learning models for network performance optimization
--Interpretable anomaly detection and intrusion detection in networking systems
--Safety considerations and techniques for robust and reliable machine learning in networking
--Fairness, accountability, and transparency in machine learning for networking
--Hybrid models which combine formal methods and AI for explainability
--Explainable reinforcement learning for networking
--Explainable deep reinforcement learning for networking
--Safety bounded reinforcement learning for networking
--Explainable Graph neural networks for networking
--Explainable sequential decision-making
--Constraints-based explanations for networking
--Visualizations and tools for understanding and interpreting machine learning models in networking
--Case studies and real-world applications of explainable and safety bounded machine learning in networking
--Evaluation methods for explainable machine learning
--Fidelity of explainable machine learning methods
+- Explainable machine learning models for network performance optimization
+- Interpretable anomaly detection and intrusion detection in networking systems
+- Safety considerations and techniques for robust and reliable machine learning in networking
+- Fairness, accountability, and transparency in machine learning for networking
+- Hybrid models which combine formal methods and AI for explainability
+- Explainable reinforcement learning for networking
+- Explainable deep reinforcement learning for networking
+- Safety bounded reinforcement learning for networking
+- Explainable Graph neural networks for networking
+- Explainable sequential decision-making
+- Constraints-based explanations for networking
+- Visualizations and tools for understanding and interpreting machine learning models in networking
+- Case studies and real-world applications of explainable and safety bounded machine learning in networking
+- Evaluation methods for explainable machine learning
+- Fidelity of explainable machine learning methods
 
 ## Submission procedure
 
 Authors are invited to submit original papers in PDF format, following the ACM conference style (double-column, 10pt font). Papers should be submitted via the hotcrp.com submission System, with a maximum length of 6 pages plus 1 page for references, including figures and tables.
+
 All submitted papers will undergo a rigorous peer-review process by the program committee. Accepted papers will be included in the workshop proceedings, which will be published in the companion proceedings. At least one author of each accepted paper must register and present the work at the workshop.
