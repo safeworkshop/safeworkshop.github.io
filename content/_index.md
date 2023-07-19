@@ -7,7 +7,7 @@ featured_image = "/images/paris_small.jpeg"
 +++
 
 
-Welcome to the website of the **Workshop on "Explainable and Safety Bounded, Fidelitous, Machine Learning for Networking"** to be held as a part of the CoNEXT 2023 conference, Paris, 4 - 7 December, 2023.
+Welcome to the website of the **Workshop on "Explainable and Safety Bounded, Fidelitous, Machine Learning for Networking"** to be held as a part of the CoNEXT 2023 conference, Paris, 5 - 8 December, 2023.
 
 You will find here information about how to submit papers, how to come to the workshop, etc.
 
