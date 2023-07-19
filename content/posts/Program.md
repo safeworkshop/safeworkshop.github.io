@@ -1,8 +1,8 @@
 +++
 title = "Program"
-author = ["Guillaume MULLER", "Anaïs LAVOREL", "Kamal SINGH"]
+author = ["Kamal Singh", "Abbas Bradai", "Pham Tran Anh Quang", "Antonio Pescapè","Claudio Fiandrino"]
 draft = false
-featured_image = "/images/PlaneEngine2_small.png"
+featured_image = "/images/paris_small.jpeg"
 [menu]
   [menu.main]
     identifier = "program"
