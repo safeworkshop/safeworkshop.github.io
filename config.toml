@@ -1,5 +1,5 @@
-title = "AI4PMI Workshop (IEEE AICCSA 23)"
-baseURL = "https://aiccsa-wsai4pmi1.gitlab.io/website/"
+title = "SAFE Workshop"
+baseURL = "https://safeworkshop.github.io"
 languageCode = "en-us"
 theme = ["ananke"]
 # resourceDir = "./resources"
