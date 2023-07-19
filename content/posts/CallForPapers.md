@@ -1,8 +1,8 @@
 +++
 title = "Call for Papers"
-author = ["Guillaume MULLER", "Anaïs LAVOREL", "Kamal SINGH"]
+author = ["Kamal Singh", "Abbas Bradai", "Pham Tran Anh Quang", "Antonio Pescapè","Claudio Fiandrino"]
 draft = false
-featured_image = "/images/PlaneEngine1_small.png"
+featured_image = "/images/paris_small.jpeg"
 [menu]
   [menu.main]
     identifier = "cfp"
@@ -10,26 +10,31 @@ featured_image = "/images/PlaneEngine1_small.png"
 +++
 
 # Technical description {#technical-description}
+Machine learning techniques are becoming increasingly popular in the field of networking. It offers promising solutions for network optimization, security, and management. However, the lack of transparency and interpretability in machine learning models poses challenges for understanding and trusting their decisions in critical networking scenarios. Moreover, ensuring safety and reliability is of utmost importance when deploying machine learning in real-world network environments.
 
-We are facing the 4th Industrial Revolution revolving around IoT, Edge Device and Machine Learning applications. While IoT is now part of our daily environment, these paradigms, combined together, open the door to a handful of new possibilities for predictive maintenance. They make this possible by enabling  the Edge to “talk” and send real-time data.
+Control and decision-making algorithms are critical for the operation of networks, hence we believe that the solutions should be safety bounded and interpretable. Understanding the decisions and behaviors of machine learning models is crucial for optimizing network performance, enhancing security, and ensuring reliable network operations. This is a very crucial topic which needs to be addressed, as network operators, managers or administrators are reluctant to use ML in production networks because of their critical and sensitive nature, e.g., as outages and performance degradations can be very costly.
 
-Since predictive maintenance is aimed at finding the right balance between scheduled maintenance and curative maintenance, it requires the use of machine learning (ML) based solutions to explore and exploit the data generated. Innovative solutions are required which go beyond the current predictive maintenance systems by exploiting Artificial Intelligence techniques. This need to go beyond can be seen in the case of supervision systems where every new failure risk may not be predictable beforehand but with the use of machine learning, the decision process can be made more reactive to failures and more robust against attacks.
-
-As this research area is still new, many scientific barriers need to be overcome and different challenges need to be addressed ranging from the data acquisition to the type of machine learning solution applied. Therefore, this workshop aims to bring together researchers, practitioners, and industry experts to discuss and explore the latest developments, methodologies, and applications of Artificial Intelligence techniques in predictive maintenance and IIoT. The primary goals of the workshop are to foster collaboration, exchange ideas, and promote advancements in this rapidly evolving field.
+We invite original research contributions as well as position papers addressing, but not limited to, the following topics:
 
 # Topics
 
-Topics include but not limited to:
-
-- **Data**: acquisition &amp; preprocessing, sensor fusion &amp; data integration, benchmarks &amp; datasets, simulations &amp; digital twins…
-- **Features**: extraction, selection…
-- **Targets**: anomaly detection, fault diagnosis, fault prediction, root cause analysis, recovery protocols design, data privacy protection, knowledge capitalization…
-- **Methods**: deep learning, generative methods, explainability &amp; interpretability, transfer learning, domain adaptation, real time algorithms, optimization, evolutionary algorithms, open-world machine learning, continual learning, symbolic AI, graph-based architectures (knowledge graphs, Graph neural networks)...
-- **Edge computing**: tiny ML, distributed architectures (federated learning, distributed learning, multi-agent system)...
-
-These topics provide a comprehensive coverage of the technical challenges and advancements in machine learning for predictive maintenance and IIoT. They offer opportunities for researchers and practitioners to discuss their work, share insights, and collaborate on solving real-world maintenance problems.
-
+-Explainable machine learning models for network performance optimization
+-Interpretable anomaly detection and intrusion detection in networking systems
+-Safety considerations and techniques for robust and reliable machine learning in networking
+-Fairness, accountability, and transparency in machine learning for networking
+-Hybrid models which combine formal methods and AI for explainability
+-Explainable reinforcement learning for networking
+-Explainable deep reinforcement learning for networking
+-Safety bounded reinforcement learning for networking
+-Explainable Graph neural networks for networking
+-Explainable sequential decision-making
+-Constraints-based explanations for networking
+-Visualizations and tools for understanding and interpreting machine learning models in networking
+-Case studies and real-world applications of explainable and safety bounded machine learning in networking
+-Evaluation methods for explainable machine learning
+-Fidelity of explainable machine learning methods
 
 ## Submission procedure
 
-See [this page](https://aiccsa-wsai4pmi1.gitlab.io/website/posts/submission "link to the submission procedure") for the submission instructions.
+Authors are invited to submit original papers in PDF format, following the ACM conference style (double-column, 10pt font). Papers should be submitted via the hotcrp.com submission System, with a maximum length of 6 pages plus 1 page for references, including figures and tables.
+All submitted papers will undergo a rigorous peer-review process by the program committee. Accepted papers will be included in the workshop proceedings, which will be published in the companion proceedings. At least one author of each accepted paper must register and present the work at the workshop.
