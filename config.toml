@@ -1,0 +1,41 @@
+title = "AI4PMI Workshop (IEEE AICCSA 23)"
+baseURL = "https://aiccsa-wsai4pmi1.gitlab.io/website/"
+languageCode = "en-us"
+theme = ["ananke"]
+# resourceDir = "./resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 8
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Workshop on \"Artificial Intelligence for Predictive Maintenance and IIoT\", IEEE AICCSA 2023"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+#[module]
+#    [[module.imports]]
+#        path = "github.com/divinerites/plausible-hugo"
+
+#[params.plausible]
+#  enable = true
+#  domain = "aiccsa-wsai4pmi1.gitlab.io/website/"
+#  debug = false
+
+
+#test-plausible.gmuller@erine.email / test-plausible@galaxim.fr.nf
+##Test!Plausible!
+
+# <script defer data-domain="aiccsa-wsai4pmi1.gitlab.io/website" src="https://plausible.io/js/script.js"></script>
