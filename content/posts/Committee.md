@@ -1,8 +1,8 @@
 +++
 title = "Committee"
-author = ["Guillaume MULLER", "Anaïs LAVOREL", "Kamal SINGH"]
+author = ["Kamal Singh", "Abbas Bradai", "Pham Tran Anh Quang", "Antonio Pescapè","Claudio Fiandrino"]
 draft = false
-featured_image = "/images/PlaneEngine2.jpeg"
+featured_image = "/images/paris_small.jpeg"
 [menu]
   [menu.main]
     identifier = "Committee"
@@ -13,21 +13,24 @@ featured_image = "/images/PlaneEngine2.jpeg"
 
 ## Organizing Committee {#organizing-committee}
 
--   Guillaume MULLER, École des Mines de Saint-Étienne, France (guillaume dot muller at emse dot fr)
--   Anaïs Lavorel, Université Claude Bernard Lyon 1, France (anais dot lavorel at univ-lyon1 dot fr)
--   Kamal Singh, Université de Saint-Étienne, France (kamal dot singh at univ-st-etienne dot fr)
-
+- Kamal Singh, University St-Etienne, France
+- Abbas Bradai, University of Poitiers, France
+- Pham Tran Anh Quang, Huawei Technologies, France
+- Antonio Pescapè, University of Napoli Federico II / Università di Napoli, Italy
+- Claudio Fiandrino, IMDEA Networks Institute, Madrid, Spain
 
 ## Technical Program Committee: {#technical-program-committee}
-
--   Kandaraj Piamrat, Université de Nantes, France
--   Ons Aouedi, Université de Nantes, France
--   Priyanka Rawat, Université de Saint-Étienne, France
--   Xavier Olive, ONERA, France
--   Nabil Benamar, Moulay Ismail University, Meknes, Morocco
--   Houda Chihi, Sup'COM, Tunisia
-<!-- -   Hyunhee Park, Myongji University, South Korea (contacted) -->
-<!-- -   Sid Ali Hamideche, Nokia Bell Labs, France (contacted) -->
-
-
-
+- Jong-Hyouk Lee, Sangmyung University, South Korea 
+- Hyunhee Park, Myongji University, south Korea
+- Antonio Montieri, University of Napoli Federico II / Università di Napoli, Italy
+- Pere Bariet-Ros, University Politècnica de Catalunya, Spain
+- Carla Fabiana Chiasserini, Politecnica di Torino, Italy
+- Francesco Devoti, NEC laboratories, Germany
+- Nabil Benamar, Moulay Ismail University, Meknes, Morocco 
+- Jérémie Leguay, Huawei Technologies, France
+- Kandaraj Piamrat, Université de Nantes, France
+- Ons Aouedi, Université de Nantes, France
+- Priyanka Rawat, Université de Saint-Étienne, France
+- Baptiste Jeudy, University St-Etienne, France 
+- Cédric Gueguen, IRISA/University of Rennes 1, France
+- Bernard Cousin, IRISA/University of Rennes 1, France
