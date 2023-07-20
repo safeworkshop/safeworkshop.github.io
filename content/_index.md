@@ -3,7 +3,7 @@ title = "Workshop on 'Explainable and Safety Bounded, Fidelitous, Machine Learni
 author = ["Kamal Singh", "Abbas Bradai", "Pham Tran Anh Quang", "Antonio Pescapè","Claudio Fiandrino"]
 description = "SAFE Workshop @CoNEXT 2023"
 draft = false
-featured_image = "/images/paris_small.jpeg"
+featured_image = "/images/paris_small2.jpeg"
 +++
 
 
