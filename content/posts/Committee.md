@@ -16,13 +16,13 @@ featured_image = "/images/paris_small.jpeg"
 - Kamal Singh, University St-Etienne, France
 - Abbas Bradai, University of Poitiers, France
 - Pham Tran Anh Quang, Huawei Technologies, France
-- Antonio Pescapè, University of Napoli Federico II / Università di Napoli, Italy
+- Antonio Pescapè, University of Napoli Federico II, Italy
 - Claudio Fiandrino, IMDEA Networks Institute, Madrid, Spain
 
 ## Technical Program Committee: {#technical-program-committee}
 - Jong-Hyouk Lee, Sangmyung University, South Korea 
 - Hyunhee Park, Myongji University, south Korea
-- Antonio Montieri, University of Napoli Federico II / Università di Napoli, Italy
+- Antonio Montieri, University of Napoli Federico II, Italy
 - Pere Bariet-Ros, University Politècnica de Catalunya, Spain
 - Carla Fabiana Chiasserini, Politecnica di Torino, Italy
 - Francesco Devoti, NEC laboratories, Germany
@@ -34,3 +34,5 @@ featured_image = "/images/paris_small.jpeg"
 - Baptiste Jeudy, University St-Etienne, France 
 - Cédric Gueguen, IRISA/University of Rennes 1, France
 - Bernard Cousin, IRISA/University of Rennes 1, France
+- Francesco Devoti, NEC Laboratories Europe, Germany
+- Zhao Xu, NEC Laboratories Europe, Germany
