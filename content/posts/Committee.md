@@ -26,6 +26,7 @@ featured_image = "/images/paris_small.jpeg"
 - Pere Bariet-Ros, University Politècnica de Catalunya, Spain
 - Carla Fabiana Chiasserini, Politecnica di Torino, Italy
 - Francesco Devoti, NEC laboratories, Germany
+- Zhao Xu, NEC Laboratories, Germany
 - Nabil Benamar, Moulay Ismail University, Meknes, Morocco 
 - Jérémie Leguay, Huawei Technologies, France
 - Kandaraj Piamrat, Université de Nantes, France
@@ -34,5 +35,4 @@ featured_image = "/images/paris_small.jpeg"
 - Baptiste Jeudy, University St-Etienne, France 
 - Cédric Gueguen, IRISA/University of Rennes 1, France
 - Bernard Cousin, IRISA/University of Rennes 1, France
-- Francesco Devoti, NEC Laboratories Europe, Germany
-- Zhao Xu, NEC Laboratories Europe, Germany
+
