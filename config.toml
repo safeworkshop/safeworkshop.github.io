@@ -6,7 +6,7 @@ theme = ["ananke"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 8
+Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
 
