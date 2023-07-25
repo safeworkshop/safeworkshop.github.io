@@ -20,23 +20,8 @@ enableRobotsTXT = true
   author = ""
   favicon = ""
   site_logo = ""
-  description = "Workshop on \"Artificial Intelligence for Predictive Maintenance and IIoT\", IEEE AICCSA 2023"
+  description = "Workshop on Explainable and Safety Bounded, Fidelitous, Machine Learning for Networking @CoNEXT 2023"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 1
   read_more_copy = "Click here to see more"
-
-#[module]
-#    [[module.imports]]
-#        path = "github.com/divinerites/plausible-hugo"
-
-#[params.plausible]
-#  enable = true
-#  domain = "aiccsa-wsai4pmi1.gitlab.io/website/"
-#  debug = false
-
-
-#test-plausible.gmuller@erine.email / test-plausible@galaxim.fr.nf
-##Test!Plausible!
-
-# <script defer data-domain="aiccsa-wsai4pmi1.gitlab.io/website" src="https://plausible.io/js/script.js"></script>
