@@ -9,7 +9,6 @@ featured_image = "/images/paris_small.jpeg"
     weight = 2001
 +++
 
-# Technical description {#technical-description}
 Machine learning techniques are becoming increasingly popular in the field of networking. It offers promising solutions for network optimization, security, and management. However, the lack of transparency and interpretability in machine learning models poses challenges for understanding and trusting their decisions in critical networking scenarios. Moreover, ensuring safety and reliability is of utmost importance when deploying machine learning in real-world network environments.
 
 Control and decision-making algorithms are critical for the operation of networks, hence we believe that the solutions should be safety bounded and interpretable. Understanding the decisions and behaviors of machine learning models is crucial for optimizing network performance, enhancing security, and ensuring reliable network operations. This is a very crucial topic which needs to be addressed, as network operators, managers or administrators are reluctant to use ML in production networks because of their critical and sensitive nature, e.g., as outages and performance degradations can be very costly.
