@@ -24,6 +24,7 @@ enableRobotsTXT = true
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 1
+  read_more_copy: click here to see more
 
 #[module]
 #    [[module.imports]]
