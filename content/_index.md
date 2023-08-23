@@ -17,7 +17,7 @@ Control and decision-making algorithms are critical for the operation of network
 
 We invite original research contributions as well as position papers addressing, but not limited to, the following topics:
 
-# Topics
+## Topics
 
 - Explainable machine learning models for network performance optimization
 - Interpretable anomaly detection and intrusion detection in networking systems
@@ -42,7 +42,7 @@ Papers should be submitted via [conext23-safe.hotcrp.com](https://conext23-safe.
 All submitted papers will be assessed through a **double-blind review process.** This means that the authors do not see who are the reviewers and the reviewers do not see who are the authors
 
 
-# Important Dates
+## Important Dates
 
 - **Submission due**: 9 September, 2023 ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth "Anywhere on Earth definition"))
 - **Notification of acceptance**: 15 October, 2023
