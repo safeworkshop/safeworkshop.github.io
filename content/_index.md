@@ -39,7 +39,9 @@ We invite original research contributions as well as position papers addressing,
 
 Papers should be submitted via [conext23-safe.hotcrp.com](https://conext23-safe.hotcrp.com) submission System.
 
-All submitted papers will be assessed through a **double-blind review process.** This means that the authors do not see who are the reviewers and the reviewers do not see who are the authors
+All submitted papers will be assessed through a **double-blind review process.** This means that the authors do not see who are the reviewers and the reviewers do not see who are the authors.
+
+Please see more details in the section [Submission](https://safeworkshop.github.io/posts/submission/).
 
 
 ## Important Dates
@@ -48,6 +50,6 @@ All submitted papers will be assessed through a **double-blind review process.**
 - **Notification of acceptance**: 15 October, 2023
 - **Camera-ready papers due**: 25 October, 2023 
 
-
+## Acknowledgement
 This workshop is supported by 
 the French ANR project [SAFE](https://team.inria.fr/anrsafe/) and the Spanish project [bRAIN](https://brain.networks.imdea.org/) .
