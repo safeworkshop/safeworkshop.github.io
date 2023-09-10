@@ -41,6 +41,6 @@ Please note that *at least one author* of each accepted submission should *atten
 
 # Important Dates
 
-- **Submission due**: 9 September, 2023 ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth "Anywhere on Earth definition"))
-- **Notification of acceptance**: 15 October, 2023
+- **Submission due**: ~~9 September~~ 30 September (extended firm), 2023 ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth "Anywhere on Earth definition"))
+- **Notification of acceptance**: ~~15~~20 October, 2023
 - **Camera-ready papers due**: 25 October, 2023 
