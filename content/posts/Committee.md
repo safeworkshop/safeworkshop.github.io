@@ -21,7 +21,6 @@ featured_image = "/images/paris_small.jpeg"
 
 ## Technical Program Committee: {#technical-program-committee}
 - Jong-Hyouk Lee, Sangmyung University, South Korea 
-- Hyunhee Park, Myongji University, south Korea
 - Antonio Montieri, University of Napoli Federico II, Italy
 - Pere Bariet-Ros, University Politècnica de Catalunya, Spain
 - Carla Fabiana Chiasserini, Politecnica di Torino, Italy
