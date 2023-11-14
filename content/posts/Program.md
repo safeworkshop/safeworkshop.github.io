@@ -17,9 +17,9 @@ featured_image = "/images/paris_small.jpeg"
 
  ### 9h40 - 10h30   Keynote by Prof. Yassine Hadjadj-Aoul, University of Rennes, France
  
- ![keynote speaker photo](https://github.com/safeworkshop/safeworkshop.github.io/tree/main/static/images/Yassine-photo.png)
+ ![keynote speaker photo](/images/Yassine-photo.png)
 
- #### The Quest for Safe Deep Reinforcement Learning-driven Network Slicing: Progress, Pitfalls and Potential
+ ### The Quest for Safe Deep Reinforcement Learning-driven Network Slicing: Progress, Pitfalls and Potential
  The quest for the efficient and autonomous placement of network services is crucial to progressing towards a fully
 automated network, commonly referred to as a "zero-touch network". In this presentation, we focus on the results of our
 research into exploiting the potential of deep reinforcement learning strategies in the field of network slicing. Our aim is not
@@ -30,18 +30,18 @@ outline some of the solutions and tangible results we have obtained in the pursu
 
  ### 10h30 - 11h00  Break 
 
- ### 11h00 -12h30 Paper Session
+ ### Paper Session
+ ### 11h00 - 11h20 DataZoo: Streamlining traffic classification experiments. 
+ Jan Luxemburk (FIT CTU & CESNET), Karel Hynek (FIT CTU & CESNET)
 
-     11h00 - 11h20 DataZoo: Streamlining traffic classification experiments.    
-     Jan Luxemburk (FIT CTU & CESNET), Karel Hynek (FIT CTU & CESNET)
+ ### 11h20 - 11h40 Explainability-based Metrics to Help Cyber Operators Find and Correct Misclassified Cyberattacks.
+ Robin Duraz (Chaire of Naval Cyberdefense, Lab-STICC), David Espes (UBO, Lab-STICC), 
+ Julien FRANCQ (Naval Group, Naval Cyber Laboratory), Sandrine VATON (IMT Atlantique, Lab-STICC)
 
-     11h20 - 11h40 Explainability-based Metrics to Help Cyber Operators Find and Correct Misclassified Cyberattacks.     
-     Robin Duraz (Chaire of Naval Cyberdefense, Lab-STICC), David Espes (UBO, Lab-STICC), Julien FRANCQ (Naval Group, Naval Cyber Laboratory), Sandrine VATON (IMT Atlantique, Lab-STICC)
+ ### 11h40 - 12h00 On Detecting Biased Predictions with Post-hoc Explanation Methods. 
+ Matteo Ruggeri (Purdue University), Alice Dethise (Nokia Bell Labs), Marco Canini (KAUST)
 
-     11h40 - 12h00 On Detecting Biased Predictions with Post-hoc Explanation Methods
-     Matteo Ruggeri (Purdue University), Alice Dethise (Nokia Bell Labs), Marco Canini (KAUST)
-
-     12h00 - 12h30 Explainable Mobile Traffic Classification: the case of Incremental Learning 
-     Alfredo Nascita (University of Napoli Federico II), Francesco Cerasuolo (University of Napoli Federico II), 
-     Giuseppe Aceto (University of Napoli Federico II), Domenico Ciuonzo (University of Napoli Federico II), 
-     Valerio Persico (University of Napoli Federico II), Antonio Pescapé (University of Napoli Federico II)
+ ### 12h00 - 12h30 Explainable Mobile Traffic Classification: the case of Incremental Learning. 
+ Alfredo Nascita (University of Napoli Federico II), Francesco Cerasuolo (University of Napoli Federico II), 
+ Giuseppe Aceto (University of Napoli Federico II), Domenico Ciuonzo (University of Napoli Federico II), 
+ Valerio Persico (University of Napoli Federico II), Antonio Pescapé (University of Napoli Federico II)
