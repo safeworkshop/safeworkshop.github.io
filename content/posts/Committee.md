@@ -14,14 +14,23 @@ featured_image = "/images/paris_small.jpeg"
 ## Organizing Committee {#organizing-committee}
 
 - Kamal Singh, University St-Etienne, France
+  
   ![Kamal Singh](/images/kamal-singh-photo.png)
+  
 - Abbas Bradai, University of Poitiers, France
+  
   ![Abbas Bradai](/images/Abbas-Bradai.jpg)
+  
 - Pham Tran Anh Quang, Huawei Technologies, France
+
   ![Pham Tran Anh Quang](/images/quang-photo.jpg)
+  
 - Antonio Pescapè, University of Napoli Federico II, Italy
+  
   ![Antonio Pescapè](/images/pescape-photo.jpg)
+  
 - Claudio Fiandrino, IMDEA Networks Institute, Madrid, Spain
+  
   ![Claudio Fiandrino](/images/claudio-fiandrino-photo.jpg)
 
 ## Technical Program Committee: {#technical-program-committee}
