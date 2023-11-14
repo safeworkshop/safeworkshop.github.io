@@ -9,8 +9,6 @@ featured_image = "/images/paris_small.jpeg"
     weight = 2001
 +++
 
-## Program {#program}
-
 ## Friday, 8 December 2023
 
  ### 9h30 - 9h40    Welcome message 
@@ -31,17 +29,17 @@ outline some of the solutions and tangible results we have obtained in the pursu
  ### 10h30 - 11h00  Break 
 
  ### Paper Session
- ### 11h00 - 11h20 DataZoo: Streamlining traffic classification experiments. 
+ #### 11h00 - 11h20 DataZoo: Streamlining traffic classification experiments. 
  Jan Luxemburk (FIT CTU & CESNET), Karel Hynek (FIT CTU & CESNET)
 
- ### 11h20 - 11h40 Explainability-based Metrics to Help Cyber Operators Find and Correct Misclassified Cyberattacks.
+ #### 11h20 - 11h40 Explainability-based Metrics to Help Cyber Operators Find and Correct Misclassified Cyberattacks.
  Robin Duraz (Chaire of Naval Cyberdefense, Lab-STICC), David Espes (UBO, Lab-STICC), 
  Julien FRANCQ (Naval Group, Naval Cyber Laboratory), Sandrine VATON (IMT Atlantique, Lab-STICC)
 
- ### 11h40 - 12h00 On Detecting Biased Predictions with Post-hoc Explanation Methods. 
+ #### 11h40 - 12h00 On Detecting Biased Predictions with Post-hoc Explanation Methods. 
  Matteo Ruggeri (Purdue University), Alice Dethise (Nokia Bell Labs), Marco Canini (KAUST)
 
- ### 12h00 - 12h30 Explainable Mobile Traffic Classification: the case of Incremental Learning. 
+ #### 12h00 - 12h30 Explainable Mobile Traffic Classification: the case of Incremental Learning. 
  Alfredo Nascita (University of Napoli Federico II), Francesco Cerasuolo (University of Napoli Federico II), 
  Giuseppe Aceto (University of Napoli Federico II), Domenico Ciuonzo (University of Napoli Federico II), 
  Valerio Persico (University of Napoli Federico II), Antonio Pescapé (University of Napoli Federico II)
