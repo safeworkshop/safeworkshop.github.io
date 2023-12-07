@@ -1,5 +1,5 @@
 +++
-title = "Program ([Please click here to see the proceedings and papers](https://dl.acm.org/doi/proceedings/10.1145/3630050))"
+title = "Program"
 author = ["Kamal Singh", "Abbas Bradai", "Pham Tran Anh Quang", "Antonio Pescapè","Claudio Fiandrino"]
 draft = false
 featured_image = "/images/paris_small.jpeg"
@@ -10,7 +10,7 @@ featured_image = "/images/paris_small.jpeg"
 +++
 
 ## Friday, 8 December 2023
-
+[Please click here to see the proceedings and papers](https://dl.acm.org/doi/proceedings/10.1145/3630050)
  #### 9h30 - 9h40    Welcome message 
 
  #### 9h40 - 10h30   Keynote by Prof. Yassine Hadjadj-Aoul, University of Rennes, France
